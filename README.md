@@ -18,26 +18,31 @@ In-person and Virtual
 
 ### Agenda: 
 
-| Time          | Title         | Speaker       |
-| ------------- | ------------- | ------------- |
-| 2:00 - 2:05 PM  | 
-| 2:05 - 2:25 PM  | 
-| 2:25 - 2:45 PM  | 
-| 2:45 - 3:05 PM  | 
-| 3:05 - 3:20 PM  | 
-
+| Time          | Title         | Speaker       | Resources       |
+| ------------- | ------------- | ------------- | ------------- |
+| 2:00 - 2:10 PM  | Introduction to Workshop/Agenda  |Jennifer and Elizabeth |
+| 2:10 - 2:20 PM  | Tour of Earthdata Website  |Jennifer|
+| 2:20 - 2:25 PM  | Getting Help   |Ross  |
+| 2:25 - 2:35 PM  | Finding the Data You Need: Data Pathfinders   |Elizabeth  |
+| 2:35 - 2:45 PM  | Introduction to Worldview   |Jennifer  |
+| 2:45 - 2:55 PM  | Introduction to Giovanni          |Elizabeth  |
+| 2:55 - 3:05 PM  | Introduction to Earthdata Search    |Jennifer  |  
+| 3:05 - 3:20 PM  | Explore The Tool of Your Choice    |Jennifer  |  
+| 3:20 - 3:30 PM  | Wrap-Up: Share Out    |All  |  
 
 ### Poll 
-* Go to www.menti.com
+* Mentimeter
+* 1. Go to www.menti.com
 
 
 ### Resources
-*NASA Resources
+
 *ESIP Resources
 **Conference Resources
-Visit esipfed.org/meetings for general conference information and learn more about Earth Science Information Partners (ESIP).
+*Visit [ESIP Summer Meeting](esipfed.org/meetings) for general conference information and learn more about Earth Science Information Partners (ESIP).
 Link to Sched, https://sched.co/1Nocs
 
+*NASA Resources
 NASA Earth Science Data Systems, https://www.earthdata.nasa.gov/ 
 * Data Pathfinders, https://www.earthdata.nasa.gov/learn/pathfinders
 Earthdata Forum - https://forum.earthdata.nasa.gov/
@@ -45,8 +50,4 @@ NASA Earthdata Forum Quick Video Guide: How to Post a ...
 YouTube: [https://www.youtube.com › watch](https://www.youtube.com/watch?v=iW_tR33BwNs)
 
 ### Questions and Answers: Parking Lot
-
-
-
-### Survey Outcomes (using Mentimeter)
 
