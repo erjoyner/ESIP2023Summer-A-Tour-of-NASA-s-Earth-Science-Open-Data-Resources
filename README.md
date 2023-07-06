@@ -10,7 +10,7 @@ This hands-on session aims to demystify NASA Earth data, services, and tools for
 * Ross Bagwell: NASA ESDIS Systems Engineer, [email Ross](Ross.Bagwell@nasa.gov)
 
 ### Requirement
-*(Most important!) Participants need to create an Earthdata Log-in account if they don't have one already (https://urs.earthdata.nasa.gov/users/new) in advance of the presentation. Remember your username and password; you will need to be logged in during the event!
+*(Most important!) Participants need to create an [Earthdata Log-in account](https://urs.earthdata.nasa.gov/users/new) in advance of the presentation if they don't have one already. Remember your username and password; you will need to be logged in during the event!
 *Participants are expected to bring their own laptop and charger.
 
 ### Location: 
@@ -19,24 +19,19 @@ In-person and Virtual
 ### Getting help
 We will use Chat and Google Doc notes as our main channels for help. Please use Zoom Chat to post questions, direct helpers to any screenshots you’ve pasted or conversations in the Google Doc, and request a breakout room.
 
-To create a screenshot:
-
-On your Mac - Screenshot
-On your PC - Snipping Tool
-
 ### Agenda: 
 
-| Time          | Title         | Speaker       | Resources       |
-| ------------- | ------------- | ------------- | ------------- |
+| Time          | Title         | Resources       |
+| ------------- | ------------- | ------------- |
 | 2:00 - 2:10 PM  | Introduction to Workshop/Agenda  |Go to www.menti.com, Enter the code: 3201 0306 |
 | 2:10 - 2:20 PM  | Tour of Earthdata Website  | [NASA Earth Science Data Systems](https://www.earthdata.nasa.gov/) | 
 | 2:20 - 2:25 PM  | Getting Help   |  [Earthdata Log-in](https://urs.earthdata.nasa.gov/users/new), [Earthdata Forum](https://forum.earthdata.nasa.gov/)  | 
 | 2:25 - 2:35 PM  | Finding the Data You Need: Data Pathfinders   |  [Data Pathfinders](https://www.earthdata.nasa.gov/learn/pathfinders)  |
 | 2:35 - 2:45 PM  | Introduction to Worldview   |[NASA Worldview](https://worldview.earthdata.nasa.gov/  |
 | 2:45 - 2:55 PM  | Introduction to Giovanni          |[Giovanni](https://giovanni.gsfc.nasa.gov/giovanni/)   | 
-| 2:55 - 3:05 PM  | Introduction to Earthdata Search    |  | [Earthdata Search](https://search.earthdata.nasa.gov)   |
-| 3:05 - 3:20 PM  | Explore The Tool/s of Your Choice    |  |  
-| 3:20 - 3:30 PM  | Wrap-Up: Share Out    |  |  
+| 2:55 - 3:05 PM  | Introduction to Earthdata Search    |  [Earthdata Search](https://search.earthdata.nasa.gov)   |
+| 3:05 - 3:20 PM  | Explore The Tool/s of Your Choice    |  
+| 3:20 - 3:30 PM  | Wrap-Up: Share Out    |  
 
 ### Presentation
 [Google Slide](https://docs.google.com/presentation/d/1SzBCdiIRjOHRQb9aOVaPZ1i-gXZYF-UZeyvFIdzTHnc/edit?usp=sharing)
