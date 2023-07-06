@@ -61,12 +61,12 @@ Earthdata Search:
 * See tutorial from [2021 AGU Cloud Workshop](https://nasa-openscapes.github.io/2021-Cloud-Workshop-AGU/tutorials/01_Earthdata_Search.html)
 
 NASA ARSET:
-[Fundamentals of Remote Sensing: These trainings are appropriate for professionals with no previous experience in remote sensing.](https://appliedsciences.nasa.gov/join-mission/training/english/arset-fundamentals-remote-sensing)
-*Session 1: Fundamentals of Remote Sensing
-*Session 1A: NASA's Earth Observing Fleet
-See all trainings to date in the [Online Resource Guide](https://appliedsciences.nasa.gov/sites/default/files/2023-01/OnlineResourceGuide_v2_2023.pdf)
+* [Fundamentals of Remote Sensing: These trainings are appropriate for professionals with no previous experience in remote sensing.](https://appliedsciences.nasa.gov/join-mission/training/english/arset-fundamentals-remote-sensing)
+* Session 1: Fundamentals of Remote Sensing
+* Session 1A: NASA's Earth Observing Fleet
+* See all trainings to date in the [Online Resource Guide](https://appliedsciences.nasa.gov/sites/default/files/2023-01/OnlineResourceGuide_v2_2023.pdf)
 
 ### ESIP Resources:
-**Conference Resources
-*Visit [ESIP Summer Meeting](esipfed.org/meetings) for general conference information and learn more about Earth Science Information Partners (ESIP).
-*[Sched](https://sched.co/1Nocs)
+Conference Resources
+* Visit [ESIP Summer Meeting](esipfed.org/meetings) for general conference information and learn more about Earth Science Information Partners (ESIP).
+* [Sched](https://sched.co/1Nocs)
