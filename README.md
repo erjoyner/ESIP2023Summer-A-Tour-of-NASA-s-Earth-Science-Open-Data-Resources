@@ -35,16 +35,16 @@ In-person and Virtual
 * 2. Enter the code: 3201 0306
 
 ### Presentation
-*[Google Slide](https://docs.google.com/presentation/d/1SzBCdiIRjOHRQb9aOVaPZ1i-gXZYF-UZeyvFIdzTHnc/edit?usp=sharing)
+[Google Slide](https://docs.google.com/presentation/d/1SzBCdiIRjOHRQb9aOVaPZ1i-gXZYF-UZeyvFIdzTHnc/edit?usp=sharing)
 
 ### NASA Resources
-*[NASA Earth Science Data Systems](https://www.earthdata.nasa.gov/) 
-*[Data Pathfinders](https://www.earthdata.nasa.gov/learn/pathfinders)
-*[Earthdata Log-in](https://urs.earthdata.nasa.gov/users/new)
-*[Earthdata Forum](https://forum.earthdata.nasa.gov/)
-**NASA Earthdata Forum Quick Video Guide: [How to Post a ...YouTube](https://www.youtube.com/watch?v=iW_tR33BwNs)
+* [NASA Earth Science Data Systems](https://www.earthdata.nasa.gov/) 
+* [Data Pathfinders](https://www.earthdata.nasa.gov/learn/pathfinders)
+* [Earthdata Log-in](https://urs.earthdata.nasa.gov/users/new)
+* [Earthdata Forum](https://forum.earthdata.nasa.gov/)
+* NASA Earthdata Forum Quick Video Guide: [How to Post a ...YouTube](https://www.youtube.com/watch?v=iW_tR33BwNs)
 
-#### Webinars, Trainings, and Tutorials:)
+#### Webinars, Trainings, and Tutorials:
 *Earthdata Webinars: 
 **To sign-up to receive announcements for upcoming webinars - Send an email to: earthdatawebinars-join@lists.nasa.gov leave the subject and body of the email blank.
 
