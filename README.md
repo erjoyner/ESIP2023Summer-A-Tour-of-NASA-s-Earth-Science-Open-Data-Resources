@@ -27,8 +27,8 @@ We will use Chat and Google Doc notes as our main channels for help. Please use 
 | 2:10 - 2:20 PM  | Tour of Earthdata Website  | [NASA Earth Science Data Systems](https://www.earthdata.nasa.gov/) | 
 | 2:20 - 2:25 PM  | Getting Help   |  [Earthdata Log-in](https://urs.earthdata.nasa.gov/users/new), [Earthdata Forum](https://forum.earthdata.nasa.gov/)  | 
 | 2:25 - 2:35 PM  | Finding the Data You Need: Data Pathfinders   |  [Data Pathfinders](https://www.earthdata.nasa.gov/learn/pathfinders)  |
-| 2:35 - 2:45 PM  | Introduction to Worldview   |[NASA Worldview](https://worldview.earthdata.nasa.gov/  |
-| 2:45 - 2:55 PM  | Introduction to Giovanni          |[Giovanni](https://giovanni.gsfc.nasa.gov/giovanni/)   | 
+| 2:35 - 2:45 PM  | Introduction to Worldview   |[NASA Worldview](https://worldview.earthdata.nasa.gov/), [NASA Giovanni Tutorial by HAQAST](https://haqast.wiscweb.wisc.edu/wp-content/uploads/sites/91/2017/09/NASA-Giovanni-Tutorial-Updated-2.pdf) |
+| 2:45 - 2:55 PM  | Introduction to Giovanni          |[Giovanni](https://giovanni.gsfc.nasa.gov/giovanni/),    | 
 | 2:55 - 3:05 PM  | Introduction to Earthdata Search    |  [Earthdata Search](https://search.earthdata.nasa.gov)   |
 | 3:05 - 3:20 PM  | Explore The Tool/s of Your Choice    |  
 | 3:20 - 3:30 PM  | Wrap-Up: Share Out    |  
