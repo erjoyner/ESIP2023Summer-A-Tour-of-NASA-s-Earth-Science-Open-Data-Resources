@@ -34,21 +34,43 @@ In-person and Virtual
 * 1. Go to www.menti.com 
 * 2. Enter the code: 3201 0306
 
-### Resources
+### NASA Resources
+[NASA Earth Science Data Systems](https://www.earthdata.nasa.gov/) 
+[Data Pathfinders](https://www.earthdata.nasa.gov/learn/pathfinders)
+[Earthdata Log-in](https://urs.earthdata.nasa.gov/users/new)
+[Earthdata Forum](https://forum.earthdata.nasa.gov/)
+*NASA Earthdata Forum Quick Video Guide: How to Post a ...YouTube: [https://www.youtube.com › watch](https://www.youtube.com/watch?v=iW_tR33BwNs)
 
-*ESIP Resources:
+#### Webinars, Trainings, and Tutorials:
+*Earthdata Webinars: 
+**To sign-up to receive announcements for upcoming webinars - Send an email to: earthdatawebinars-join@lists.nasa.gov leave the subject and body of the email blank.
+
+Worldview:
+
+
+Giovanni:
+  [Giovanni](https://giovanni.gsfc.nasa.gov/giovanni/)
+  [Giovanni Tutorial, provided by NASA HAQAST: Health and Air Quality Applied Sciences Team](https://youtu.be/bEXcoqDIURU)
+  [Giovanni Official User Guide](https://giovanni.gsfc.nasa.gov/giovanni/doc/UsersManualworkingdocument.docx.html)
+  [NASA Giovanni Tutorial by HAQAST](https://haqast.wiscweb.wisc.edu/wp-content/uploads/sites/91/2017/09/NASA-Giovanni-Tutorial-Updated-2.pdf)
+  Article:[Giovanni: The Bridge Between Data and Science](https://eos.org/science-updates/giovanni-the-bridge-between-data-and-science), Using satellite remote sensing data sets can be a daunting task. Giovanni, a Web-based tool, facilitates access, visualization, and exploration for many of NASA’s Earth science data sets.
+
+NASA ARSET:
+Fundamentals of Remote Sensing: These trainings are appropriate for professionals with no previous experience in remote sensing.
+*Session 1: Fundamentals of Remote Sensing
+*Session 1A: NASA's Earth Observing Fleet
+*Session 2A: Satellites, Sensors, Data and Tools for Land Management and Wildfire Applications
+*Session 2B: Satellites, Sensors, and Earth Systems Models for Water Resources Management
+*Session 2C: Fundamentals of Aquatic Remote Sensing
+
+
+
+
+### ESIP Resources:
 **Conference Resources
 *Visit [ESIP Summer Meeting](esipfed.org/meetings) for general conference information and learn more about Earth Science Information Partners (ESIP).
 *[Sched](https://sched.co/1Nocs)
 
-*NASA Resources:
-[NASA Earth Science Data Systems](https://www.earthdata.nasa.gov/) 
-* [Data Pathfinders](https://www.earthdata.nasa.gov/learn/pathfinders)
-*[Earthdata Log-in](https://urs.earthdata.nasa.gov/users/new)
-*[Earthdata Forum](https://forum.earthdata.nasa.gov/)
-**NASA Earthdata Forum Quick Video Guide: How to Post a ...YouTube: [https://www.youtube.com › watch](https://www.youtube.com/watch?v=iW_tR33BwNs)
-*Earthdata Webinars: 
-**To sign-up to receive announcements for upcoming webinars - Send an email to: earthdatawebinars-join@lists.nasa.gov leave the subject and body of the email blank. 
 
-### Questions and Answers: Parking Lot
+
 
