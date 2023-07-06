@@ -5,9 +5,9 @@ Wednesday, July 19 • 2:00pm - 3:30pm
 This hands-on session aims to demystify NASA Earth data, services, and tools for data users who are new to NASA data by providing a tour of the freely and openly available Earth data resources. We will show participants how to navigate NASA's Earthdata website, showcase commonly used data discovery, access, and visualization tools, and highlight how a user can get help with NASA Earth data resources. The instruction and scaffolded/supported practice will offer participants hands on assistance and subject matter expertise to successfully discover, access, and use NASA Earth data resources.
 
 ### Presenters
-* Jennifer Brennan: NASA Earth Science Data and Information System (ESDIS) Outreach Lead, [email Jennifer] (Jennifer.L.Brennan@nasa.gov)
-* Elizabeth Joyner: NASA Earth Science Data Systems Program Community Coordinator, [email Elizabeth] (Elizabeth.r.joyner@nasa.gov)
-* Ross Bagwell: NASA ESDIS Systems Engineer, [email Ross] (Ross.Bagwell@nasa.gov)
+* Jennifer Brennan: NASA Earth Science Data and Information System (ESDIS) Outreach Lead, [email Jennifer](Jennifer.L.Brennan@nasa.gov)
+* Elizabeth Joyner: NASA Earth Science Data Systems Program Community Coordinator, [email Elizabeth](Elizabeth.r.joyner@nasa.gov)
+* Ross Bagwell: NASA ESDIS Systems Engineer, [email Ross](Ross.Bagwell@nasa.gov)
 
 ### Requirement
 *(Most important!) Participants need to create an Earthdata Log-in account if they don't have one already (https://urs.earthdata.nasa.gov/users/new) in advance of the workshop.
@@ -36,19 +36,18 @@ In-person and Virtual
 
 ### Resources
 
-*ESIP Resources
+*ESIP Resources:
 **Conference Resources
 *Visit [ESIP Summer Meeting](esipfed.org/meetings) for general conference information and learn more about Earth Science Information Partners (ESIP).
-Link to Sched, https://sched.co/1Nocs
+*[Sched](https://sched.co/1Nocs)
 
-*NASA Resources
+*NASA Resources:
 [NASA Earth Science Data Systems](https://www.earthdata.nasa.gov/) 
 * [Data Pathfinders](https://www.earthdata.nasa.gov/learn/pathfinders)
-[Earthdata Log-in](https://urs.earthdata.nasa.gov/users/new)
-[Earthdata Forum](https://forum.earthdata.nasa.gov/)
-NASA Earthdata Forum Quick Video Guide: How to Post a ...
-YouTube: [https://www.youtube.com › watch](https://www.youtube.com/watch?v=iW_tR33BwNs)
-Earthdata Webinars: 
+*[Earthdata Log-in](https://urs.earthdata.nasa.gov/users/new)
+*[Earthdata Forum](https://forum.earthdata.nasa.gov/)
+**NASA Earthdata Forum Quick Video Guide: How to Post a ...YouTube: [https://www.youtube.com › watch](https://www.youtube.com/watch?v=iW_tR33BwNs)
+*Earthdata Webinars: 
 **To sign-up to receive announcements for upcoming webinars - Send an email to: earthdatawebinars-join@lists.nasa.gov leave the subject and body of the email blank. 
 
 ### Questions and Answers: Parking Lot
