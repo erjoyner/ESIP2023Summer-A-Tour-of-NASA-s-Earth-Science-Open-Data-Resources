@@ -10,14 +10,18 @@ This hands-on session aims to demystify NASA Earth data, services, and tools for
 * Ross Bagwell: NASA ESDIS Systems Engineer, [email Ross](Ross.Bagwell@nasa.gov)
 
 ### Requirement
-*(Most important!) Participants need to create an [Earthdata Log-in account](https://urs.earthdata.nasa.gov/users/new) in advance of the presentation if they don't have one already. Remember your username and password; you will need to be logged in during the event!
-*Participants are expected to bring their own laptop and charger.
+* (Most important!) Participants need to create an [Earthdata Log-in account](https://urs.earthdata.nasa.gov/users/new) in advance of the presentation if they don't have one already. Remember your username and password; you will need to be logged in during the event!
+* Participants are expected to bring their own laptop and charger.
 
 ### Location: 
 In-person and Virtual
 
 ### Getting help
-We will use Chat and Google Doc notes as our main channels for help. Please use Zoom Chat to post questions, direct helpers to any screenshots you’ve pasted or conversations in the Google Doc, and request a breakout room.
+* For Online Attendees:
+** We will use Zoom Chat as our main channels for help. Please use Zoom Chat to post questions, direct Teddie (the Zoom Host) to any questions or to request a breakout room with our In-person host.  We have joining us today: Ross, Elizabeth, and Jennifer who will be tag-teaming the online/in-person host as needed. If there are expert NASA data users in the audience who are willing to help new users, please let us know as it is possible that we could use an extra hand. ;)
+* For In-person Attendees:
+** Please raise your hand if you have a question. For those who are more comfortable with using a “back channel” to ask questions, please use the Mentimeter Q&A option.  
+
 
 ### Agenda: 
 
