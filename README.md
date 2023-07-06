@@ -21,19 +21,18 @@ In-person and Virtual
 | Time          | Title         | Speaker       | Resources       |
 | ------------- | ------------- | ------------- | ------------- |
 | 2:00 - 2:10 PM  | Introduction to Workshop/Agenda  |Jennifer and Elizabeth |
-| 2:10 - 2:20 PM  | Tour of Earthdata Website  |Jennifer| [NASA Earth Science Data Systems] (https://www.earthdata.nasa.gov/) | 
-| 2:20 - 2:25 PM  | Getting Help   |Ross  | [Earthdata Log-in](https://urs.earthdata.nasa.gov/users/new), [Earthdata Forum] (https://forum.earthdata.nasa.gov/)  | 
-| 2:25 - 2:35 PM  | Finding the Data You Need: Data Pathfinders   |Elizabeth  | [Data Pathfinders] (https://www.earthdata.nasa.gov/learn/pathfinders)  |
+| 2:10 - 2:20 PM  | Tour of Earthdata Website  |Jennifer| [NASA Earth Science Data Systems](https://www.earthdata.nasa.gov/) | 
+| 2:20 - 2:25 PM  | Getting Help   |Ross  | [Earthdata Log-in](https://urs.earthdata.nasa.gov/users/new), [Earthdata Forum](https://forum.earthdata.nasa.gov/)  | 
+| 2:25 - 2:35 PM  | Finding the Data You Need: Data Pathfinders   |Elizabeth  | [Data Pathfinders](https://www.earthdata.nasa.gov/learn/pathfinders)  |
 | 2:35 - 2:45 PM  | Introduction to Worldview   |Jennifer  |
 | 2:45 - 2:55 PM  | Introduction to Giovanni          |Elizabeth  |  | 
-| 2:55 - 3:05 PM  | Introduction to Earthdata Search    |Jennifer  | [Earthdata Search] (https://search.earthdata.nasa.gov)   |
+| 2:55 - 3:05 PM  | Introduction to Earthdata Search    |Jennifer  | [Earthdata Search](https://search.earthdata.nasa.gov)   |
 | 3:05 - 3:20 PM  | Explore The Tool of Your Choice    |Jennifer  |  
 | 3:20 - 3:30 PM  | Wrap-Up: Share Out    |All  |  
 
 ### Poll 
-* Mentimeter
-* 1. Go to www.menti.com
-
+* 1. Go to www.menti.com 
+* 2. Enter the code: 3201 0306
 
 ### Resources
 
@@ -43,10 +42,10 @@ In-person and Virtual
 Link to Sched, https://sched.co/1Nocs
 
 *NASA Resources
-[NASA Earth Science Data Systems] (https://www.earthdata.nasa.gov/) 
-* [Data Pathfinders] (https://www.earthdata.nasa.gov/learn/pathfinders)
+[NASA Earth Science Data Systems](https://www.earthdata.nasa.gov/) 
+* [Data Pathfinders](https://www.earthdata.nasa.gov/learn/pathfinders)
 [Earthdata Log-in](https://urs.earthdata.nasa.gov/users/new)
-[Earthdata Forum] (https://forum.earthdata.nasa.gov/)
+[Earthdata Forum](https://forum.earthdata.nasa.gov/)
 NASA Earthdata Forum Quick Video Guide: How to Post a ...
 YouTube: [https://www.youtube.com › watch](https://www.youtube.com/watch?v=iW_tR33BwNs)
 Earthdata Webinars: 
