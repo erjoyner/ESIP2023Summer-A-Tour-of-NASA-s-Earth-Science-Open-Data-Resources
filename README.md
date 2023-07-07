@@ -62,7 +62,8 @@ Giovanni:
 
 Earthdata Search:
 * [Earthdata Search](https://search.earthdata.nasa.gov/search)
-* See tutorial from [2021 AGU Cloud Workshop](https://nasa-openscapes.github.io/2021-Cloud-Workshop-AGU/tutorials/01_Earthdata_Search.html)
+* [How do I Download Data Using Earthdata Search?](https://github.com/erjoyner/ESIP2023Summer-A-Tour-of-NASA-s-Earth-Science-Open-Data-Resources/blob/main/How%20do%20I%20Download%20Data%20Using%20Earthdata%20Search_.pdf)
+* Accessing data from the Earthdata Cloud - See tutorial from [2021 AGU Cloud Workshop](https://nasa-openscapes.github.io/2021-Cloud-Workshop-AGU/tutorials/01_Earthdata_Search.html)
 
 NASA ARSET:
 * [Fundamentals of Remote Sensing: These trainings are appropriate for professionals with no previous experience in remote sensing.](https://appliedsciences.nasa.gov/join-mission/training/english/arset-fundamentals-remote-sensing)
