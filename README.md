@@ -46,7 +46,7 @@ In-person and Virtual
 * [Earthdata Log-in](https://urs.earthdata.nasa.gov/users/new)
 * [Earthdata Forum](https://forum.earthdata.nasa.gov/)
 ** NASA Earthdata Forum Quick Video Guide: [How to Post a ...YouTube](https://www.youtube.com/watch?v=iW_tR33BwNs)
-* [Earthdata Monthly Newsletter: Subscribe](https://www.earthdata.nasa.gov/subscribe  
+* [Earthdata Monthly Newsletter: Subscribe](https://www.earthdata.nasa.gov/subscribe)  
 
 #### Webinars, Trainings, and Tutorials:
 Worldview:
