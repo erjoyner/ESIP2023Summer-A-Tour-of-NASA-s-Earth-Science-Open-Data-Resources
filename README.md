@@ -66,6 +66,10 @@ Earthdata Search:
 * [How do I Download Data Using Earthdata Search?](https://github.com/erjoyner/ESIP2023Summer-A-Tour-of-NASA-s-Earth-Science-Open-Data-Resources/blob/main/How%20do%20I%20Download%20Data%20Using%20Earthdata%20Search_.pdf)
 * [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/)
 
+NASA Earthdata Webinar Series
+*Monthly data discovery and data access webinar series that provides tutorials for finding, accessing, and using NASA Earth science datasets, services, and tools.
+* [NASA Earthdata Webinars](https://www.earthdata.nasa.gov/learn/webinars-and-tutorials)
+  
 NASA ARSET:
 * [Fundamentals of Remote Sensing: These trainings are appropriate for professionals with no previous experience in remote sensing.](https://appliedsciences.nasa.gov/join-mission/training/english/arset-fundamentals-remote-sensing)
 * Session 1: Fundamentals of Remote Sensing
