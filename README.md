@@ -29,7 +29,7 @@ In-person and Virtual
 | ------------- | ------------- | ------------- |
 | 2:00 - 2:10 PM  | Introduction to Workshop/Agenda  |Go to www.menti.com, Enter the code: 3201 0306 |
 | 2:10 - 2:20 PM  | Tour of Earthdata Website  | [NASA Earth Science Data Systems](https://www.earthdata.nasa.gov/) | 
-| 2:20 - 2:25 PM  | Getting Help   |  [Earthdata Log-in](https://urs.earthdata.nasa.gov/users/new), [Earthdata Forum](https://forum.earthdata.nasa.gov/)  | 
+| 2:20 - 2:25 PM  | Getting Help   |  [Earthdata Login](https://urs.earthdata.nasa.gov/users/new), [Earthdata Forum](https://forum.earthdata.nasa.gov/)  | 
 | 2:25 - 2:35 PM  | Finding the Data You Need: Data Pathfinders   |  [Data Pathfinders](https://www.earthdata.nasa.gov/learn/pathfinders)  |
 | 2:35 - 2:45 PM  | Introduction to Worldview   |[NASA Worldview](https://worldview.earthdata.nasa.gov/) | [Getting Started with NASA Worldview tutorial](https://youtu.be/uMkuiRJr_-E)
 | 2:45 - 2:55 PM  | Introduction to Giovanni          |[Giovanni](https://giovanni.gsfc.nasa.gov/giovanni/), [NASA Giovanni Tutorial](https://haqast.wiscweb.wisc.edu/wp-content/uploads/sites/91/2017/09/NASA-Giovanni-Tutorial-Updated-2.pdf)     | 
