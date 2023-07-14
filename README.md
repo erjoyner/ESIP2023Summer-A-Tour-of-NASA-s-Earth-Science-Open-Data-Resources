@@ -47,7 +47,7 @@ In-person and Virtual
 * [Earthdata Forum](https://forum.earthdata.nasa.gov/)
 ** Earthdata Forum Quick Video Guide: [How to Post a ...YouTube](https://www.youtube.com/watch?v=iW_tR33BwNs)
 * [Earthdata Monthly Newsletter: Subscribe](https://www.earthdata.nasa.gov/subscribe)
-* Connect with us on Social Media: Twitter 
+* Connect with us on Social Media: [Twitter](https://twitter.com/nasaearthdata) 
 
 #### Webinars, Trainings, and Tutorials:
 Worldview:
