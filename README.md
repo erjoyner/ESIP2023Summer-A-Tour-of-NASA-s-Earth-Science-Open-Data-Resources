@@ -41,7 +41,7 @@ In-person and Virtual
 [Google Slide](https://docs.google.com/presentation/d/1SzBCdiIRjOHRQb9aOVaPZ1i-gXZYF-UZeyvFIdzTHnc/edit?usp=sharing)
 
 ### NASA Earthdata Resources
-* [NASA Earth Science Data Systems Website](https://earthdata.nasa.gov/) 
+* [NASA Earthdata Website](https://earthdata.nasa.gov/) 
 * [Data Pathfinders](https://www.earthdata.nasa.gov/learn/pathfinders)
 * [Earthdata Log-in](https://urs.earthdata.nasa.gov/users/new)
 * [Earthdata Forum](https://forum.earthdata.nasa.gov/)
@@ -52,7 +52,7 @@ In-person and Virtual
 #### Webinars, Trainings, and Tutorials:
 Worldview:
 * [NASA Worldview](https://worldview.earthdata.nasa.gov/)
-* NASA Earthdata [Getting Started with NASA Worldview Tutorial](https://youtu.be/uMkuiRJr_-E)
+* NASA Earthdata video tutorial [Getting Started with NASA Worldview Tutorial](https://youtu.be/uMkuiRJr_-E)
 * [Worldview Tutorial, provided by NASA HAQAST: Health and Air Quality Applied Sciences Team](https://haqast.org/wp-content/uploads/sites/91/2017/01/NASA-Worldview-Tutorial-PDF.pdf)
 
 Giovanni:
@@ -64,7 +64,7 @@ Giovanni:
 Earthdata Search:
 * [Earthdata Search](https://search.earthdata.nasa.gov/search)
 * [How do I Download Data Using Earthdata Search?](https://github.com/erjoyner/ESIP2023Summer-A-Tour-of-NASA-s-Earth-Science-Open-Data-Resources/blob/main/How%20do%20I%20Download%20Data%20Using%20Earthdata%20Search_.pdf)
-* Accessing data from the Earthdata Cloud - See tutorial from [2021 AGU Cloud Workshop](https://nasa-openscapes.github.io/2021-Cloud-Workshop-AGU/tutorials/01_Earthdata_Search.html)
+* Earthdata Cloud Cookbook - (https://nasa-openscapes.github.io/earthdata-cloud-cookbook/)
 
 NASA ARSET:
 * [Fundamentals of Remote Sensing: These trainings are appropriate for professionals with no previous experience in remote sensing.](https://appliedsciences.nasa.gov/join-mission/training/english/arset-fundamentals-remote-sensing)
