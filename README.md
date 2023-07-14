@@ -10,7 +10,7 @@ This hands-on session aims to demystify NASA Earth science data, services, and t
 * Ross Bagwell: NASA ESDIS Principal Systems Engineer, SSAI, [email Ross](Ross.Bagwell@nasa.gov)
 
 ### Requirement
-* (Most important!) Participants need to create an [Earthdata Log-in account](https://urs.earthdata.nasa.gov/users/new) in advance of the presentation if they don't have one already. Remember your username and password; you will need to be logged in during the event!
+* (IMPORTANT:) Participants need to have an Earthdata Login in order to participate. If you do not have one already, please create an [Earthdata Login] at the following URL: (https://urs.earthdata.nasa.gov/users/new). Remember your username and password; you will need to be logged in during the event!
 * Participants are expected to bring their own laptop and charger.
 
 ### Location: 
