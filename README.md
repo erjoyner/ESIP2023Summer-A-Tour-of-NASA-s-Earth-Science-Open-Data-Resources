@@ -2,7 +2,7 @@
 ## A Tour of NASA's Earth Science Open Data Resources
 Wednesday, July 19 • 2:00pm - 3:30pm
 
-This hands-on session aims to demystify NASA Earth data, services, and tools for data users who are new to NASA data by providing a tour of the freely and openly available Earth data resources. We will show participants how to navigate NASA's Earthdata website, showcase commonly used data discovery, access, and visualization tools, and highlight how a user can get help with NASA Earth data resources. The instruction and scaffolded/supported practice will offer participants hands on assistance and subject matter expertise to successfully discover, access, and use NASA Earth data resources.
+This hands-on session aims to demystify NASA Earth science data, services, and tools for data users who are new to NASA data by providing a tour of the freely and openly available Earth data resources. We will show participants how to navigate NASA's Earthdata website, showcase commonly used data discovery, access, and visualization tools, and highlight how a user can get help with NASA Earth science data resources. The instruction and scaffolded/supported practice will offer participants hands on assistance and subject matter expertise to successfully discover, access, and use NASA Earth data resources.
 
 ### Presenters
 * Jennifer Brennan: NASA Earth Science Data and Information System (ESDIS) Outreach Lead, ADNET Systems Inc. [email Jennifer](Jennifer.L.Brennan@nasa.gov)
