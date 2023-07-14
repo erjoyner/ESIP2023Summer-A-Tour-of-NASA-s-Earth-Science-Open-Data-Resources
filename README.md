@@ -45,7 +45,7 @@ In-person and Virtual
 * [Data Pathfinders](https://www.earthdata.nasa.gov/learn/pathfinders)
 * [Earthdata Log-in](https://urs.earthdata.nasa.gov/users/new)
 * [Earthdata Forum](https://forum.earthdata.nasa.gov/)
-** NASA Earthdata Forum Quick Video Guide: [How to Post a ...YouTube](https://www.youtube.com/watch?v=iW_tR33BwNs)
+** Earthdata Forum Quick Video Guide: [How to Post a ...YouTube](https://www.youtube.com/watch?v=iW_tR33BwNs)
 * [Earthdata Monthly Newsletter: Subscribe](https://www.earthdata.nasa.gov/subscribe)
 * Connect with us on Social Media: Twitter 
 
