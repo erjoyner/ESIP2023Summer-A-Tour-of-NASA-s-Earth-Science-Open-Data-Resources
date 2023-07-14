@@ -5,9 +5,9 @@ Wednesday, July 19 • 2:00pm - 3:30pm
 This hands-on session aims to demystify NASA Earth data, services, and tools for data users who are new to NASA data by providing a tour of the freely and openly available Earth data resources. We will show participants how to navigate NASA's Earthdata website, showcase commonly used data discovery, access, and visualization tools, and highlight how a user can get help with NASA Earth data resources. The instruction and scaffolded/supported practice will offer participants hands on assistance and subject matter expertise to successfully discover, access, and use NASA Earth data resources.
 
 ### Presenters
-* Jennifer Brennan: NASA Earth Science Data and Information System (ESDIS) Outreach Lead, [email Jennifer](Jennifer.L.Brennan@nasa.gov)
-* Elizabeth Joyner: NASA Earth Science Data Systems Program Community Coordinator, [email Elizabeth](Elizabeth.r.joyner@nasa.gov)
-* Ross Bagwell: NASA ESDIS Systems Engineer, [email Ross](Ross.Bagwell@nasa.gov)
+* Jennifer Brennan: NASA Earth Science Data and Information System (ESDIS) Outreach Lead, ADNET Systems Inc. [email Jennifer](Jennifer.L.Brennan@nasa.gov)
+* Elizabeth Joyner: NASA Earth Science Data Systems Program Community Coordinator, Science Systems and Applications, Inc., [email Elizabeth](Elizabeth.r.joyner@nasa.gov)
+* Ross Bagwell: NASA ESDIS Principal Systems Engineer, Science Systems and Applications, Inc., [email Ross](Ross.Bagwell@nasa.gov)
 
 ### Requirement
 * (Most important!) Participants need to create an [Earthdata Log-in account](https://urs.earthdata.nasa.gov/users/new) in advance of the presentation if they don't have one already. Remember your username and password; you will need to be logged in during the event!
