@@ -53,7 +53,7 @@ In-person and Virtual
 Worldview:
 * [NASA Worldview](https://worldview.earthdata.nasa.gov/)
 * NASA Earthdata video tutorial [Getting Started with NASA Worldview Tutorial](https://youtu.be/uMkuiRJr_-E)
-* [Worldview Tutorial, provided by NASA HAQAST: Health and Air Quality Applied Sciences Team](https://haqast.org/wp-content/uploads/sites/91/2017/01/NASA-Worldview-Tutorial-PDF.pdf)
+* [Worldview 4-pager, an official "How-To" from Worldview]((https://www.earthdata.nasa.gov/s3fs-public/2023-07/Worldview_4-Pager_2019.pdf?VersionId=EGPre2EuIpe47pO2.cDr287F6WRcibXP))
 
 Giovanni:
 * [Giovanni](https://giovanni.gsfc.nasa.gov/giovanni/)
