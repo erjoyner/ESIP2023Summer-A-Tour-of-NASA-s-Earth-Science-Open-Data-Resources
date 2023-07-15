@@ -52,7 +52,7 @@ In-person and Virtual
 #### Webinars, Trainings, and Tutorials:
 Worldview:
 * [NASA Worldview](https://worldview.earthdata.nasa.gov/)
-* NASA Earthdata video tutorial [Getting Started with NASA Worldview Tutorial](https://youtu.be/uMkuiRJr_-E)
+* [NASA Earthdata YouTube video tutorial: Getting Started with NASA Worldview Tutorial](https://youtu.be/uMkuiRJr_-E)
 * [Worldview 4-pager, an official "How-To" from Worldview](https://www.earthdata.nasa.gov/s3fs-public/2023-07/Worldview_4-Pager_2019.pdf?VersionId=EGPre2EuIpe47pO2.cDr287F6WRcibXP)
 
 Giovanni:
