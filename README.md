@@ -31,11 +31,11 @@ In-person and Virtual
 | 2:10 - 2:20 PM  | Tour of Earthdata Website  | [NASA Earth Science Data Systems](https://www.earthdata.nasa.gov/) | 
 | 2:20 - 2:25 PM  | Getting Help   |  [Earthdata Login](https://urs.earthdata.nasa.gov/users/new), [Earthdata Forum](https://forum.earthdata.nasa.gov/)  | 
 | 2:25 - 2:35 PM  | Finding the Data You Need: Data Pathfinders   |  [Data Pathfinders](https://www.earthdata.nasa.gov/learn/pathfinders)  |
-| 2:35 - 2:45 PM  | Introduction to Worldview   |[NASA Worldview](https://worldview.earthdata.nasa.gov/) | [Getting Started with NASA Worldview tutorial](https://youtu.be/uMkuiRJr_-E)
-| 2:45 - 2:55 PM  | Introduction to Giovanni          |[Giovanni](https://giovanni.gsfc.nasa.gov/giovanni/), [NASA Giovanni Tutorial](https://haqast.wiscweb.wisc.edu/wp-content/uploads/sites/91/2017/09/NASA-Giovanni-Tutorial-Updated-2.pdf)     | 
-| 2:55 - 3:05 PM  | Introduction to Earthdata Search    |  [Earthdata Search](https://search.earthdata.nasa.gov)   |
-| 3:05 - 3:20 PM  | Explore The Tools of Your Choice    |  
-| 3:20 - 3:30 PM  | Wrap-Up: Share Out    |  
+| 2:35 - 2:40 PM  | Introduction to Worldview   |[NASA Worldview](https://worldview.earthdata.nasa.gov/) | [Getting Started with NASA Worldview tutorial](https://youtu.be/uMkuiRJr_-E)
+| 2:40 - 2:50 PM  | Introduction to Giovanni          |[Giovanni](https://giovanni.gsfc.nasa.gov/giovanni/), [NASA Giovanni Tutorial](https://haqast.wiscweb.wisc.edu/wp-content/uploads/sites/91/2017/09/NASA-Giovanni-Tutorial-Updated-2.pdf)     | 
+| 2:50 - 3:00 PM  | Introduction to Earthdata Search    |  [Earthdata Search](https://search.earthdata.nasa.gov)   |
+| 3:00 - 3:15 PM  | Explore The Tools of Your Choice    |  
+| 3:15 - 3:30 PM  | Wrap-Up: Share Out    |  
 
 ### Presentation
 [Google Slide](https://docs.google.com/presentation/d/1SzBCdiIRjOHRQb9aOVaPZ1i-gXZYF-UZeyvFIdzTHnc/edit?usp=sharing)
