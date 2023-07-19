@@ -18,7 +18,8 @@ In-person and Virtual
 
 ### Getting help
 * For Online Attendees:
-** We will use Zoom Chat as our main channels for help. Please use Zoom Chat to post questions, direct Teddie (the Zoom Host) to any questions or to request a breakout room with our In-person host.  We have joining us today: Ross, Elizabeth, and Jennifer who will be tag-teaming the online/in-person host as needed. If there are expert NASA data users in the audience who are willing to help new users, please let us know as it is possible that we could use an extra hand. ;)
+** We will use Zoom Chat as our main channels for technical help. Please use Zoom Chat to post questions, direct Teddie (the Zoom Host) to any questions or to request a breakout room with our In-person host.  We have joining us today: Ross, Elizabeth, and Jennifer who will be tag-teaming the online/in-person host as needed. If there are expert NASA data users in the audience who are willing to help new users, please let us know as it is possible that we could use an extra hand. ;)
+**For questions about the content in the presentations, please use the Mentimeter Q & A.  
 * For In-person Attendees:
 ** Please raise your hand if you have a question. For those who are more comfortable with using a “back channel” to ask questions, please use the Mentimeter Q&A option.  
 
@@ -39,6 +40,7 @@ In-person and Virtual
 
 ### Presentation
 [Google Slide](https://docs.google.com/presentation/d/1SzBCdiIRjOHRQb9aOVaPZ1i-gXZYF-UZeyvFIdzTHnc/edit?usp=sharing)
+[Mentimeter Poll/Survey Access](https://www.menti.com/ali13w5ixas6)
 
 ### NASA Earthdata Resources
 * [NASA Earthdata Website](https://earthdata.nasa.gov/) 
