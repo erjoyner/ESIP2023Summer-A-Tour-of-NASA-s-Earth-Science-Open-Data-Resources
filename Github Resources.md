@@ -5,7 +5,7 @@
 * [NSIDC DAAC Data Tutorials](https://github.com/nsidc/NSIDC-Data-Tutorials)
 * [ORNL DAAC Data Resources](https://github.com/ornldaac)
 
-### Earthdata
+### Earthdata Github Resources
 * [Earthdata Download Github](https://github.com/nasa/earthdata-download)
 * [Earthdata Cloud Github](https://github.com/nasa/Earthdata-cloud-hub)
 * [Earthdata Search Github](https://github.com/nasa/earthdata-search)
