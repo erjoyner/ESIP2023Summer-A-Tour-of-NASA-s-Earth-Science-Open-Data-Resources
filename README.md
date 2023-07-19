@@ -38,9 +38,12 @@ In-person and Virtual
 | 3:00 - 3:15 PM  | Explore The Tools of Your Choice    |  
 | 3:15 - 3:30 PM  | Wrap-Up: Share Out    |  
 
+### Getting Started:
+* [Session Google Doc](https://docs.google.com/document/d/11WfokHqSeg5eLY_n0gpAZzhCdTJpZAFBdmJ5amgDvqk/edit?usp=sharing): Add your attendance here
+* [Mentimeter Poll/Survey Access](https://www.menti.com/ali13w5ixas6)
+
 ### Presentation
 [Google Slide](https://docs.google.com/presentation/d/1SzBCdiIRjOHRQb9aOVaPZ1i-gXZYF-UZeyvFIdzTHnc/edit?usp=sharing)
-[Mentimeter Poll/Survey Access](https://www.menti.com/ali13w5ixas6)
 
 ### NASA Earthdata Resources
 * [NASA Earthdata Website](https://earthdata.nasa.gov/) 
@@ -80,6 +83,5 @@ NASA ARSET:
 
 ### ESIP Resources:
 Conference Resources
-* [Session Google Doc](https://docs.google.com/document/d/11WfokHqSeg5eLY_n0gpAZzhCdTJpZAFBdmJ5amgDvqk/edit?usp=sharing)
 * Visit [ESIP Summer Meeting](esipfed.org/meetings) for general conference information and learn more about Earth Science Information Partners (ESIP).
 * [Sched](https://sched.co/1Nocs)
