@@ -80,5 +80,6 @@ NASA ARSET:
 
 ### ESIP Resources:
 Conference Resources
+* [Session Google Doc](https://docs.google.com/document/d/11WfokHqSeg5eLY_n0gpAZzhCdTJpZAFBdmJ5amgDvqk/edit?usp=sharing)
 * Visit [ESIP Summer Meeting](esipfed.org/meetings) for general conference information and learn more about Earth Science Information Partners (ESIP).
 * [Sched](https://sched.co/1Nocs)
